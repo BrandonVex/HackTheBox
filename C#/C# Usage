@@ -1,0 +1,22 @@
+What is C# used for?
+C# is a versatile and powerful programming language that can be employed to construct various program types to fulfil diverse needs and requirements. Here is a snapshot of the broad range of applications you can build with C#:
+
+  Console Applications: Perfect for building command-line interfaces, these applications are text-driven, devoid of graphical user interfaces (GUIs), and ideal for crafting simple utilities or scripts.
+
+  Windows Forms Applications (WinForms): These GUI desktop applications come packed with a rich set of controls, including text boxes, labels, and buttons.
+
+  Windows Presentation Foundation (WPF) Applications: WPF offers a framework for creating sophisticated desktop applications with advanced UI features such as graphics, multimedia, and animations.
+
+  Universal Windows Platform (UWP) Applications: UWP apps are designed to provide a universal experience across Windows 10, Windows 10 Mobile, Windows 11, Xbox One, Xbox Series X/S, and HoloLens.
+
+  Xamarin Applications: Xamarin provides a platform for crafting mobile applications operable on multiple platforms, including iOS, Android, and Windows, all from a unified C# codebase.
+  
+  .NET Multi-platform App UI (MAUI) Applications: MAUI is the evolution of Xamarin, extending from mobile to desktop. It allows for creating cross-platform Android, iOS, macOS, and Windows applications with a single codebase. Using MAUI, developers can create flexible and high-performance native applications using .NET and C#.
+
+  ASP.NET Applications: ASP.NET is a robust framework for building dynamic web applications, capable of serving web pages, RESTful APIs, real-time services, and more.
+
+  Web Services: These applications, accessible over standard web protocols like HTTP, SOAP, and REST, facilitate communication between applications over the Internet.
+
+  Class Libraries: These encompass collections of classes and other types that can be utilised by different applications, supporting code reuse and modular design.
+
+  Unity Games: Unity is a widely-used game development platform, with C# employed for scripting game behaviour.

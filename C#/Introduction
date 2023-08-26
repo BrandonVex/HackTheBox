@@ -1,0 +1,26 @@
+C# is a general-purpose, object-oriented programming language (OOP) Developed by Microsoft within its .NET initiative.  
+It is fundamentally rooted in the C and C++ family of languages and borrows aspects from Java, making C# very familiar for Developers of those languages
+
+
+Hello World in c# is the following!
+
+using System;
+class Program
+{
+  static void Main(string[] args)
+  { 
+    Console.WriteLine("Hello, World!");
+  } 
+}
+
+
+The .NET Framework is a language-agnostic software development and runtime platform developed by Microsoft. 
+It provides a controlled environment for developing and running applications.
+Programs written for the .NET Framework execute in a software environment known as the Common Language Runtime (CLR), an application virtual machine that provides services such as security, memory management, and exception handling. 
+
+There are many different components to the .NET Framework; some are listed below:
+
+The Common Language Runtime (CLR) is the execution engine for .NET Framework applications. It provides various services, such as memory management and thread management.
+  The .NET Framework Class Library (FCL) is a standard library that encapsulates many common functions, such as file reading and writing, graphic rendering, database interaction, and XML document manipulation.
+    Common Language Specification (CLS) is a set of rules and standards that enforce language interoperability.
+      Common Type System (CTS) is a standard that defines all possible data types and programming constructs supported by CLR and how they interact.

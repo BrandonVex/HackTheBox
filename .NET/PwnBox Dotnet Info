@@ -1,0 +1,36 @@
+MuaxVex@htb[/htb]$ dotnet --info
+
+.NET SDK (reflecting any global.json):
+ Version:   6.0.408
+ Commit:    0c3669d367
+
+Runtime Environment:
+ OS Name:     parrot
+ OS Version:  5.3
+ OS Platform: Linux
+ RID:         linux-x64
+ Base Path:   /usr/share/dotnet/sdk/6.0.408/
+
+global.json file:
+  Not found
+
+Host:
+  Version:      6.0.16
+  Architecture: x64
+  Commit:       1e620a42e7
+
+.NET SDKs installed:
+  3.1.426 [/usr/share/dotnet/sdk]
+  6.0.408 [/usr/share/dotnet/sdk]
+
+.NET runtimes installed:
+  Microsoft.AspNetCore.App 3.1.32 [/usr/share/dotnet/shared/Microsoft.AspNetCore.App]
+  Microsoft.AspNetCore.App 6.0.16 [/usr/share/dotnet/shared/Microsoft.AspNetCore.App]
+  Microsoft.NETCore.App 3.1.32 [/usr/share/dotnet/shared/Microsoft.NETCore.App]
+  Microsoft.NETCore.App 6.0.16 [/usr/share/dotnet/shared/Microsoft.NETCore.App]
+
+Download .NET:
+  https://aka.ms/dotnet-download
+
+Learn about .NET Runtimes and SDKs:
+  https://aka.ms/dotnet/runtimes-sdk-info
